@@ -1,1 +1,1 @@
-meantestapp
+meantestapp - testing MEAN stack
